@@ -1,16 +1,20 @@
-body{
+/* body{
     background-color: #0ff0ff;
 }
 td{
     border: 1px solid black;
-}
+} */
 
-/* body{ 
+body{ 
+    height: auto;
+    width: auto;
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     text-align: center;
-    background-image:-moz-repeating-linear-gradient(rgb(202, 162, 225) , rgb(238, 220, 155), rgb(137, 225, 233));
+    background-image:linear-gradient( to right top,#caa2e1 , #eedc9b, #67e4ef);
+    justify-content: center;
+    box-shadow: rgb(202, 162, 225) 0px 1px 4px ,rgb(113, 193, 243);
 }
 
 h1{
@@ -35,12 +39,24 @@ button{
     margin-bottom: 5px;
     border-radius: 5px;
 
+
 }
 
 #increment-btn{
     background: darkred;
+    gap: 20px;
+    margin-bottom: 20px;
+    
 }
  
 #save-btn{
     background: darkgreen;
-} */
+}
+#increment-btn:hover{
+    color: #171b1c;
+    background: rgb(231, 69, 69);
+}
+#save-btn:hover{
+    color: hsl(0, 0%, 3%);
+    background: #59b64c;
+}
