@@ -1,11 +1,11 @@
-/* body{
+ body{
     background-color: #0ff0ff;
 }
 td{
     border: 1px solid black;
-} */
+} 
 
-body{ 
+/*body{ 
     height: auto;
     width: auto;
     box-sizing: border-box;
@@ -63,4 +63,4 @@ button{
 #save-btn:hover{
     color: hsl(0, 0%, 3%);
     background: #59b64c;
-}
+} */
