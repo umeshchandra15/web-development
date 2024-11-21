@@ -7,6 +7,9 @@ td{
 p{
     background-color: rgb(170, 248, 247);
 }
+a{
+    color: aliceblue;
+}
 
 /*body{ 
     height: auto;
