@@ -1,17 +1,29 @@
- body{
-    background-color: #0ff0ff;
-}
-td{
-    border: 1px solid black;
-} 
-p{
-    background-color: rgb(170, 248, 247);
-}
-a{
-    color: aliceblue;
-}
+ body {
+     background-color: #0ff0ff;
+ }
 
-/*body{ 
+ td {
+     border: 1px solid black;
+ }
+
+ p {
+     background-color: rgb(170, 248, 247);
+ }
+
+ a {
+     color: aliceblue;
+ }
+
+ .class {
+
+     background-color: aquamarine;
+ }
+
+ #first_id {
+     background-color: aqua;
+ }
+
+ /*body{ 
     height: auto;
     width: auto;
     box-sizing: border-box;
