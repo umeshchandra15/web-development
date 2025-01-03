@@ -38,4 +38,10 @@ div{
  a :hover{
     background-color: blue;
  }
+ /* box model */
+ .box{
+    padding: 0;
+    margin: 5px;
+    border: 2dvh;
+ }
  
