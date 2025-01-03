@@ -43,5 +43,7 @@ div{
     padding: 0;
     margin: 5px;
     border: 2dvh;
+    box-sizing: border-box;
+    color: blanchedalmond;
  }
  
