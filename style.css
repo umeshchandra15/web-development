@@ -13,12 +13,12 @@
  a {
      color: aliceblue;
  }
-
+/* class selector */
  .class {
 
      background-color: aquamarine;
  }
-
+/* id selector */
  #first_id {
      background-color: aqua;
  }
@@ -27,7 +27,12 @@
     font font-size: 10px;
     
  }
+
 div{
     background-color: aliceblue;
 }
+/* peseudo selector */
+ a :visited{
+    color: azure;
+ }
  
