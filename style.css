@@ -35,4 +35,7 @@ div{
  a :visited{
     color: azure;
  }
+ a :hover{
+    background-color: blue;
+ }
  
