@@ -51,4 +51,8 @@ div{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     font-stretch: semi-expanded;
+  .fonts p{
+    font-variant-ligatures: no-additional-ligatures;
+    font-synthesis: initial;
+    font-stretch: ultra-condensed;
   }
