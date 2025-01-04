@@ -46,4 +46,9 @@ div{
     box-sizing: border-box;
     color: blanchedalmond;
  }
- 
+  /*  css fonts,text & color properties*/
+  .font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-stretch: semi-expanded;
+  }
