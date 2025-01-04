@@ -55,4 +55,6 @@ div{
     font-variant-ligatures: no-additional-ligatures;
     font-synthesis: initial;
     font-stretch: ultra-condensed;
+    font-style: italic;
+    flex-direction: column;
   }
