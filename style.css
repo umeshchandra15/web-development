@@ -57,4 +57,5 @@ div{
     font-stretch: ultra-condensed;
     font-style: italic;
     flex-direction: column;
+   font: 1em sans-serif; 
   }
