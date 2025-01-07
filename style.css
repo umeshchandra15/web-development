@@ -70,4 +70,9 @@ div{
     text-decoration-thickness:10px;
 
   }
- 
+ /* without class and id access html tag */
+ div:first-child p{
+    color: bisque;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
