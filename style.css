@@ -72,7 +72,8 @@ div{
   }
  /* without class and id access html tag */
  div:first-child p{
-    color: bisque;
+    color: rgb(223, 123, 2);
     text-align: center;
+    text-transform: capitalize;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
