@@ -80,9 +80,12 @@ div{
  }
  /* css sizing units - px , rem , em  more  */
 .unitss{
-    font-size: 12em;
+    font-size: 1em;
     height:50vh ;
-    width: 40vh;
-    
+    width: 40vw;
+    border: 2px black solid ;
+    color: rgb(234, 38, 38);
+    background-color: beige;
+
 
 }
